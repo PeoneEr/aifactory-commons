@@ -8,7 +8,6 @@ module Commons
       def copy_initializer_file
         copy_file "_read_settings.rb", "config/initializers/_read_settings.rb"
       end
-
     end
   end
 end

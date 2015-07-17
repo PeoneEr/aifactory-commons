@@ -24,6 +24,7 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency 'hirb'
   spec.add_runtime_dependency 'annotate'
+  spec.add_runtime_dependency 'progress_bar'
   spec.add_runtime_dependency 'configliere'
   spec.add_runtime_dependency 'header'
 end
